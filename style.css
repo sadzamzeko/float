@@ -1,0 +1,24 @@
+.logo-img {
+	float: right;
+	width: 120px;
+	height: 130px;
+	margin-top: 20px;
+	margin-right: 20px;
+}
+li {
+	float: right;
+	text-transform: uppercase;
+	margin-right: 60px;
+	margin-top: 30px;
+	font-size: 25px;
+	color: white;
+}
+.wraper{
+	background-color: #246E64;
+	width: 60%;
+	margin-left: 20%
+}
+
+.clear {
+	clear: right;	
+}
