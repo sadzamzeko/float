@@ -1,14 +1,14 @@
 .logo-img {
 	float: right;
-	width: 120px;
-	height: 130px;
+	width: 150px;
+	height: 120px;
 	margin-top: 20px;
 	margin-right: 20px;
 }
 li {
 	float: right;
 	text-transform: uppercase;
-	margin-right: 60px;
+	margin-right: 35px;
 	margin-top: 30px;
 	font-size: 25px;
 	color: white;
@@ -22,3 +22,37 @@ li {
 .clear {
 	clear: right;	
 }
+
+.section-img{
+	float: right;
+}
+section {
+	width: 400px;
+	font-size: 12px;
+	background-color: #246E64;
+}
+.section2-img{
+	float: left;
+}
+.sec1{
+	float: left;
+	margin-left: 20%;
+}
+.sec2{
+	float: right;
+	margin-right: 20%;
+}
+.section-img , .section2-img {
+	width: 140px;
+	height: 100px;
+}
+
+.section1-div{
+	background-color: yellow;
+}
+
+
+
+/*.sec-p1{
+	width: 200px;
+}*/
